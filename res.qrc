@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/text.png</file>
+        <file>res/icons/radio.png</file>
+        <file>res/icons/if.png</file>
+        <file>res/icons/check_box.png</file>
+        <file>res/icons/page.png</file>
+        <file>res/icons/start.png</file>
+        <file>res/icons/switch.png</file>
+        <file>res/icons/icon.png</file>
+        <file>res/icons/iconka.ico</file>
+    </qresource>
+</RCC>
